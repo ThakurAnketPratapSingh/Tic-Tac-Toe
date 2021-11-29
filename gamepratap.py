@@ -49,7 +49,7 @@ def disableButton():
 
 
 #def clearButton():
-#
+
 #    activeButton()
 #    button1["text"]=" "
 #    button2["text"]=" "
